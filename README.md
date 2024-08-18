@@ -1,4 +1,4 @@
-## Hi there, and welcome to my Github Profile!
+## Hi! Welcome to my Github Profile!
 
 <!--
 **bryanrg22/bryanrg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
