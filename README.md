@@ -2,7 +2,7 @@
 
 [![linkedin_badge]](https://linkedin.com/in/bryanrg22)  [![gmail_badge]](mailto:bryanram2024@gmail.com) [![github_badge]](http://www.github.com/bryanrg22)
 
-I am a current First-Year Freshmen at the University of Southern California.
+I am a current First-Year Freshmen at the University of Southern California (USC).
 
 
 
