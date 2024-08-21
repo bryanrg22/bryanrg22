@@ -10,7 +10,7 @@ You can reach me here: Email: [bryanram2024@gmail.com](mailto:bryanram2024@gmail
 ![java] ![python_badge] ![c++] ![c] ![sqLite] ![HTML5] ![CSS3]
 
 ### Technologies
-![pyTorch] ![tensorFlow]
+![ChatGPT] ![pyTorch] ![tensorFlow]
 
 
 
@@ -26,5 +26,6 @@ You can reach me here: Email: [bryanram2024@gmail.com](mailto:bryanram2024@gmail
 [HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 
+[ChatGPT]:https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [pyTorch]:https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
 [tensorFlow]:https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white:
