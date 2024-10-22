@@ -31,8 +31,8 @@ I’ve had the privilege of leading and winning hackathons such as Harvard’s H
 
 ### Other Compeitions
 - **Point72 Academy National Case Competition**
-- **Jane Street’s Estimathon**
 - **YHack’s Estimathon**
+- **Jane Street’s Estimathon**
 
 ---
 
