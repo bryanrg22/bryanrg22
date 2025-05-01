@@ -22,14 +22,17 @@ I’ve had the privilege of leading and winning hackathons such as Harvard’s H
 
 ## 🏆 Competitions
 ### Hackathons
-- **Princeton’s HackPrinceton** (Upcoming)
-- **HackHarvard** (Winner)
+- **Harvard's HackHarvard** (Winner)
+- **CalTech's HackTech** (Winner)
+- **AstroHacks** (Winner)
+- **Stanford’s TreeHacks**
+- **Princeton’s HackPrinceton**
 - **Yale’s YHacks**
 - **UPenn’s PennApps**
 - **UC Berkeley AI Hackathon**
-- **AstroHacks** (Winner)
 
 ### Other Compeitions
+- **MIT’s iQuHack**
 - **Point72 Academy National Case Competition**
 - **YHack’s Estimathon**
 - **Jane Street’s Estimathon**
