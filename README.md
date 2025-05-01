@@ -21,7 +21,7 @@ I’ve had the privilege of leading and winning hackathons such as Harvard’s H
 ![React] ![TailwindCSS] ![PyTorch] ![TensorFlow] ![Flask] ![Firebase] ![Terraform] ![Git]
 
 ## 🏆 Competitions
-### Hackathons
+### Hackathons - 3x Winner
 - **Harvard's HackHarvard** (Winner)
 - **CalTech's HackTech** (Winner)
 - **AstroHacks** (Winner)
