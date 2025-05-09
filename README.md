@@ -6,6 +6,8 @@ I’m Bryan Ramirez-Gonzalez, a first-year Computer Science student at the Unive
 
 I’ve had the privilege of leading and winning hackathons such as Harvard’s HackHarvard and AstroHacks, while also participating in prestigious competitions like UPenn’s PennApps, Yale’s YHacks, and Princeton’s HackPrinceton. Beyond hackathons, my research experience at USC’s HUMANS Lab and Melady Lab has strengthened my ability to build scalable data pipelines, perform sentiment analysis, and improve AI models.
 
+I also manage to bench 145 lbs on a good day 🤷🏽‍♂️
+
 
 
 ### 📫 Reach me:
