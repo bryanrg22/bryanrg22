@@ -10,7 +10,9 @@
 
 Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs @ **Jane Street FOCUS**.
 
-First-generation Mexican-American from Azusa, California. I learned engineering before I ever wrote code — growing up in my dad's auto body shop since I was a kid. At 15 I worked full days alongside him during COVID to keep the family business running. That's where I learned what real work looks like.
+First-generation Mexican-American from Azusa, California. I learned engineering before I ever wrote code — right here in my dad's shop. At 15, the COVID-19 pandemic hit and I worked alongside him to support our family.
+
+Out the door before 6 AM, back home after 7 PM — full days in the shop while doing school virtually. That's where I learned what real work looks like.
 
 I also bench 225 now. and still play soccer...
 
