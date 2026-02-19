@@ -102,12 +102,21 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryanrg22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1612&title_color=F4C963&icon_color=E8A838&text_color=F5F0EB" alt="GitHub Stats" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanrg22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1612&title_color=F4C963&text_color=F5F0EB" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanrg22&theme=tokyonight&hide_border=true&background=1a1612&ring=F4C963&fire=E8A838&currStreakLabel=F5F0EB&sideLabels=F5F0EB&dates=8a7e72" alt="GitHub Streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryanrg22/bryanrg22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryanrg22/bryanrg22/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bryanrg22/bryanrg22/output/github-snake.svg" />
+</picture>
 
 ## Reach Me
 
