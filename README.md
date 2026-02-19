@@ -8,7 +8,7 @@
 
 ## About Me
 
-Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs @ **Jane Street FOCUS**.
+Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs such as **Jane Street FOCUS**.
 
 First-generation Mexican-American from Azusa, California. I learned engineering before I ever wrote code — right here in my dad's shop. At 15, the COVID-19 pandemic hit and I worked alongside him to support our family.
 
@@ -101,14 +101,6 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 ![FastAPI Badge] ![Flask Badge] ![Firebase] ![Docker Badge] ![GCP Badge] ![AWS Badge] ![Linux Badge]
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanrg22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1612&title_color=F4C963&icon_color=E8A838&text_color=F5F0EB" alt="GitHub Stats" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanrg22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1612&title_color=F4C963&text_color=F5F0EB" alt="Top Languages" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanrg22&theme=tokyonight&hide_border=true&background=1a1612&ring=F4C963&fire=E8A838&currStreakLabel=F5F0EB&sideLabels=F5F0EB&dates=8a7e72" alt="GitHub Streak" />
