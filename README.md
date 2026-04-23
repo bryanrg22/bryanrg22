@@ -1,6 +1,6 @@
 # Bryan Ramirez-Gonzalez
 
-**CS @ USC | Incoming SWE Intern @ NVIDIA | Published Researcher | 3x Hackathon Winner**
+**CS @ USC | Incoming SWE Intern @ NVIDIA | Published Researcher | 4x Hackathon Winner**
 
 [![LinkedIn Badge]](https://linkedin.com/in/bryanrg22) [![Gmail Badge]](mailto:bryanram2024@gmail.com) [![GitHub Badge]](https://github.com/bryanrg22) [![Website Badge]](https://bryanram.com) [![Google Scholar Badge]](https://scholar.google.com/citations?user=x5W6xScAAAAJ&hl=en) [![DevPost Badge]](https://devpost.com/bryanrg22) [![Handshake Badge]](https://usc.joinhandshake.com/profiles/bryanrg22)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs such as **Jane Street FOCUS**.
+Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs such as **Jane Street FOCUS** and **Hudson River Trading – Inside HRT**.
 
 First-generation Mexican-American from Azusa, California.
 
@@ -22,6 +22,13 @@ Voice-controlled Claude agent that operates a real iPhone — built for blind an
 ![Claude Badge] ![Node.js Badge] ![Swift Badge] ![XCTest Badge]
 
 **🥉 3rd Place — Claude Builder Hackathon @ UCLA, April 2026**
+
+### [Garage Portfolio](https://github.com/bryanrg22/bryan-garage-portfolio) · [bryanram.com](https://bryanram.com)
+An immersive 3D portfolio built as an interactive auto body garage. Visitors explore my work by clicking on garage objects — smooth camera fly-ins, GPU-tier quality scaling, and demand-driven rendering (0fps when idle).
+
+![React] ![TypeScript Badge] ![Three.js Badge] ![Vite Badge] ![TailwindCSS]
+
+**Live at [bryanram.com](https://bryanram.com)**
 
 ### [Basis](https://github.com/bryanrg22/Basis_Info)
 Award-winning agentic AI platform for cost segregation. Multi-agent vision pipeline (Grounding DINO → SAM2 → GPT) with IRS-grounded RAG system. **2 paying customers from top-5 firms.**
@@ -46,6 +53,10 @@ Agentic procurement co-pilot built at Caltech's HackTech. Event-driven LangChain
 
 ## Research
 
+**iOS-Agent: Open Research Platform for Physical Mobile GUI Agents** — *USC ISI · Jan 2026 – Present*
+
+First open research platform for autonomous AI agents on physical iOS. 22+ tool primitives, first autonomous multi-step drag on iPhone, 3.5× speedup on 15-step agent tasks (88s → 24s) via context compression, direct XCTest HTTP, and prompt caching.
+
 **EDTok: A Multimodal Eating Disorder TikTok Dataset** — *Accepted to ICWSM 2025* · [arXiv:2505.02250](https://arxiv.org/abs/2505.02250)
 
 LLM-assisted pipeline for building the first multimodal eating disorder dataset from TikTok content.
@@ -53,12 +64,14 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 | | | |
 |:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscisiLogo.jpg" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/amazonLogo.png" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscviterbiLogo.jpg" width="80"/> |
-| **USC ISI** · Research Intern<br/>Published EDTok @ ICWSM 2025 | **Amazon × USC** · Research Intern<br/>LLM Safety (Jan 2026 – Present) | **USC Viterbi** · CS Sophomore |
+| **USC ISI** · Research Intern<br/>iOS-Agent (current) · EDTok @ ICWSM 2025 | **Amazon × USC** · Research Intern<br/>LLM Safety (Jan 2026 – Present) | **USC Viterbi** · CS Sophomore |
 
 ## Experience
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/Nvidia_logo.svg.png" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/hrt_logo.png" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/janestreetLogo.png" height="60"/>
 </p>
@@ -66,6 +79,7 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 | Company | Role | Highlight |
 |---------|------|-----------|
 | **NVIDIA** | Incoming SWE Intern | Building Agentic AI — Summer 2026 |
+| **Hudson River Trading** | Undergraduate Fellow | Inside HRT — Algorithm Development (Quantitative Research) Track, May 2026 |
 | **Jane Street** | Undergraduate Fellow | FOCUS '25 (1 of 14) · UNBOXED '24 (1 of 37) |
 
 *Full list on [bryanram.com](https://bryanram.com).*
@@ -102,11 +116,12 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 | 🏆 HackTech 2025 | Caltech | **Winner** — 1st Place Dryft Challenge |
 | 🏆 HackHarvard 2024 | Harvard | **Winner** — Best Use of Terraform |
 | 🏆 AstroHacks | — | **Winner** — Gold Medalist |
+| YHack Spring 2026 | Yale | Completed |
 | MITHacks | MIT | Completed |
 | TreeHacks | Stanford | Completed |
 | MIT iQuHACK | MIT | Completed |
 | HackPrinceton | Princeton | Completed |
-| YHacks | Yale | Completed |
+| YHacks Fall 2024 | Yale | Completed |
 | PennApps XXV | UPenn | Completed |
 | UC Berkeley AI Hackathon | UC Berkeley | Completed |
 
