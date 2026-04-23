@@ -10,13 +10,18 @@
 
 Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs such as **Jane Street FOCUS**.
 
-First-generation Mexican-American from Azusa, California. I learned engineering before I ever wrote code — right here in my dad's shop. At 15, the COVID-19 pandemic hit and I worked alongside him to support our family.
-
-Out the door before 6 AM, back home after 7 PM — full days in the shop while doing school virtually. That's where I learned what real work looks like.
+First-generation Mexican-American from Azusa, California.
 
 I also bench 225 now. and still play soccer...
 
 ## Featured Projects
+
+### [Agentic Automation on iOS](https://github.com/bryanrg22/ios-agent_automation)
+Voice-controlled Claude agent that operates a real iPhone — built for blind and low-vision users. Hold the Action Button, speak a task, watch Claude take over any app (LinkedIn, CVS, your bank) while AVSpeechSynthesizer narrates every step. 20+ tools, CoALA-style memory stack, prompt caching, 10–100× action-latency reduction via direct HTTP to Maestro's XCTest runner.
+
+![Claude Badge] ![Node.js Badge] ![Swift Badge] ![XCTest Badge]
+
+**🥉 3rd Place — Claude Builder Hackathon @ UCLA, April 2026**
 
 ### [Basis](https://github.com/bryanrg22/Basis_Info)
 Award-winning agentic AI platform for cost segregation. Multi-agent vision pipeline (Grounding DINO → SAM2 → GPT) with IRS-grounded RAG system. **2 paying customers from top-5 firms.**
@@ -39,48 +44,78 @@ Agentic procurement co-pilot built at Caltech's HackTech. Event-driven LangChain
 
 **1st Place Dryft Challenge @ Caltech HackTech**
 
+## Research
+
+**EDTok: A Multimodal Eating Disorder TikTok Dataset** — *Accepted to ICWSM 2025* · [arXiv:2505.02250](https://arxiv.org/abs/2505.02250)
+
+LLM-assisted pipeline for building the first multimodal eating disorder dataset from TikTok content.
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscisiLogo.jpg" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/amazonLogo.png" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscviterbiLogo.jpg" width="80"/> |
+| **USC ISI** · Research Intern<br/>Published EDTok @ ICWSM 2025 | **Amazon × USC** · Research Intern<br/>LLM Safety (Jan 2026 – Present) | **USC Viterbi** · CS Sophomore |
+
 ## Experience
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/Nvidia_logo.svg.png" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/janestreetLogo.png" height="60"/>
+</p>
 
 | Company | Role | Highlight |
 |---------|------|-----------|
 | **NVIDIA** | Incoming SWE Intern | Building Agentic AI — Summer 2026 |
-| **Amazon x USC** | Research Intern | LLM Safety research (Jan 2026 – Present) |
 | **Jane Street** | Undergraduate Fellow | FOCUS '25 (1 of 14) · UNBOXED '24 (1 of 37) |
-| **USC ISI** | Research Intern | Published EDTok at ICWSM 2025 · Image coordination detection |
-| **D.E. Shaw** | Connect Fellow | 3-day fellowship at NYC office |
-| **Two Sigma** | New Seekers Summit | Selected participant (Feb 2025) |
-| **SIG** | Discovery Day | First-year program (Feb 2025) |
-| **LavaLab** | Software Developer | USC's premier startup incubator — Demo Night Winner |
-| **QuantSC** | Software Developer | USC's premier quant club |
-| **TroyLabs** | Software Developer | USC's premier startup accelerator |
-| **FIRST Robotics** | Lead Developer | Regional Semifinalist — Top 5 of 32 teams |
-| **SkillsUSA** | Team Leader | State Bronze — 3rd best engineering project in CA |
 
-## Publications
+*Full list on [bryanram.com](https://bryanram.com).*
 
-**EDTok: A Multimodal Eating Disorder TikTok Dataset**
-*Accepted to ICWSM 2025*
-[arXiv:2505.02250](https://arxiv.org/abs/2505.02250)
+## Hackathons
 
-LLM-assisted pipeline for building the first multimodal eating disorder dataset from TikTok content.
+**12 Hackathons. 4 Wins. Coast to Coast.**
 
-## Hackathons & Competitions
-
-**11 Hackathons. 3 Wins. Coast to Coast.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/claudeLogo.webp" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/caltechLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/harvardLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/mitLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/stanfordLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/yaleLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/princetonLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/upennLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/berkeleyLogo.png" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/astrohacksLogo.jpeg" height="50"/>
+</p>
 
 | Event | School | Result |
 |-------|--------|--------|
-| MITHacks | MIT | Completed |
+| 🏆 Claude Builder Hackathon 2026 | UCLA | **3rd Place** — Agentic Automation on iOS |
 | 🏆 HackTech 2025 | Caltech | **Winner** — 1st Place Dryft Challenge |
+| 🏆 HackHarvard 2024 | Harvard | **Winner** — Best Use of Terraform |
+| 🏆 AstroHacks | — | **Winner** — Gold Medalist |
+| MITHacks | MIT | Completed |
 | TreeHacks | Stanford | Completed |
 | MIT iQuHACK | MIT | Completed |
 | HackPrinceton | Princeton | Completed |
-| 🏆 HackHarvard 2024 | Harvard | **Winner** — Best Use of Terraform |
 | YHacks | Yale | Completed |
 | PennApps XXV | UPenn | Completed |
 | UC Berkeley AI Hackathon | UC Berkeley | Completed |
-| 🏆 AstroHacks | — | **Winner** — Gold Medalist |
 
+## Competitions
+
+| Event | Result |
+|-------|--------|
+| **SkillsUSA** (State) | 🥉 Bronze — 3rd best engineering project in CA |
+| **FIRST Robotics** (Regional) | Semifinalist — Top 5 of 32 teams |
 
 ## Languages & Tools
 
@@ -138,6 +173,10 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 [C]: https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
 
 <!-- AI/ML badges -->
+[Claude Badge]: https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white
+[Node.js Badge]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+[Swift Badge]: https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white
+[XCTest Badge]: https://img.shields.io/badge/XCTest-147EFB?style=flat-square&logo=apple&logoColor=white
 [LangChain Badge]: https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white
 [LangGraph Badge]: https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white
 [PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
