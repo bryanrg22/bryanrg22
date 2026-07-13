@@ -1,6 +1,6 @@
 # Bryan Ramirez-Gonzalez
 
-**CS @ USC | Incoming SWE Intern @ NVIDIA | Published Researcher | 4x Hackathon Winner**
+**CS @ USC | SWE Intern @ NVIDIA | Published Researcher | 4x Hackathon Winner**
 
 [![LinkedIn Badge]](https://linkedin.com/in/bryanrg22) [![Gmail Badge]](mailto:bryanram2024@gmail.com) [![GitHub Badge]](https://github.com/bryanrg22) [![Website Badge]](https://bryanram.com) [![Google Scholar Badge]](https://scholar.google.com/citations?user=x5W6xScAAAAJ&hl=en) [![DevPost Badge]](https://devpost.com/bryanrg22) [![Handshake Badge]](https://usc.joinhandshake.com/profiles/bryanrg22)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Sophomore studying Computer Science at USC Viterbi. Incoming Software Engineering Intern at **NVIDIA** building agentic AI. Published researcher at **ICWSM 2025**. Selected for selective quant discovery programs such as **Jane Street FOCUS** and **Hudson River Trading – Inside HRT**.
+Studying Computer Science at USC Viterbi. Software Engineering Intern at **NVIDIA** building agentic AI (Summer 2026). Published researcher at **ICWSM 2025**. Selected for **Hudson River Trading**'s quant research track and **Jane Street FOCUS**.
 
 First-generation Mexican-American from Azusa, California.
 
@@ -16,8 +16,8 @@ I also bench 225 now. and still play soccer...
 
 ## Featured Projects
 
-### [Agentic Automation on iOS](https://github.com/bryanrg22/ios-agent_automation)
-Voice-controlled Claude agent that operates a real iPhone — built for blind and low-vision users. Hold the Action Button, speak a task, watch Claude take over any app (LinkedIn, CVS, your bank) while AVSpeechSynthesizer narrates every step. 20+ tools, CoALA-style memory stack, prompt caching, 10–100× action-latency reduction via direct HTTP to Maestro's XCTest runner.
+### [Agentic Automation on iOS](https://github.com/bryanrg22/ios-agent_automation_info)
+Voice-controlled Claude agent that operates a real iPhone — built for blind and low-vision users. Hold the Action Button, speak a task, watch Claude take over any app (LinkedIn, CVS, your bank) while AVSpeechSynthesizer narrates every step. 22+ tools, CoALA-style memory stack, prompt caching, 10–100× action-latency reduction via direct HTTP to Maestro's XCTest runner. Now continuing as research at USC ISI.
 
 ![Claude Badge] ![Node.js Badge] ![Swift Badge] ![XCTest Badge]
 
@@ -36,6 +36,13 @@ Award-winning agentic AI platform for cost segregation. Multi-agent vision pipel
 ![Python] ![LangGraph Badge] ![React] ![TypeScript Badge]
 
 **Won LavaLab Demo Night F'25 (Best Traction)**
+
+### [Sprout](https://github.com/bryanrg22/sprout)
+Native SwiftUI AI health coach running daily on real Fitbit data. One abstraction speaks to both Claude and GPT; every feature runs on the cheapest model that does the job honestly. Measured cost engineering — an 82% prompt-cache hit rate dropped a coach turn from **1.7¢ to 0.45¢**. Real tool use with safety rails. 443 tests passing.
+
+![Swift Badge] ![SwiftUI Badge] ![Claude Badge] ![GPT Badge]
+
+**A working case study in doing consumer AI right**
 
 ### [Lambda Rim](https://github.com/bryanrg22/lambda-rim)
 Quantitative fantasy sports analytics. Poisson modeling, 100k-run Monte Carlo simulation, GARCH(1,1) volatility forecasting, and cross-platform arbitrage engine.
@@ -61,10 +68,10 @@ First open research platform for autonomous AI agents on physical iOS. 22+ tool 
 
 LLM-assisted pipeline for building the first multimodal eating disorder dataset from TikTok content.
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscisiLogo.jpg" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/amazonLogo.png" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscviterbiLogo.jpg" width="80"/> |
-| **USC ISI** · Research Intern<br/>iOS-Agent (current) · EDTok @ ICWSM 2025 | **Amazon × USC** · Research Intern<br/>LLM Safety (Jan 2026 – Present) | **USC Viterbi** · CS Sophomore |
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscisiLogo.jpg" width="80"/> | <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/experience/uscviterbiLogo.jpg" width="80"/> |
+| **USC ISI** · HUMANS Lab<br/>iOS-Agent (current) · Published EDTok @ ICWSM 2025 | **USC Viterbi**<br/>Image–Text Misinformation Detection |
 
 ## Experience
 
@@ -78,7 +85,7 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 
 | Company | Role | Highlight |
 |---------|------|-----------|
-| **NVIDIA** | Incoming SWE Intern | Building Agentic AI — Summer 2026 |
+| **NVIDIA** | SWE Intern | Building Agentic AI — Summer 2026 |
 | **Hudson River Trading** | Undergraduate Fellow | Inside HRT — Algorithm Development (Quantitative Research) Track, May 2026 |
 | **Jane Street** | Undergraduate Fellow | FOCUS '25 (1 of 14) · UNBOXED '24 (1 of 37) |
 
@@ -93,7 +100,7 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/caltechLogo.png" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/harvardLogo.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/harvardLogo.webp" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/mitLogo.png" height="50"/>
   &nbsp;&nbsp;
@@ -105,7 +112,7 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/upennLogo.png" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/berkeleyLogo.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/berkeleyLogo.webp" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/bryanrg22/bryan-garage-portfolio/main/public/images/hackathons/astrohacksLogo.jpeg" height="50"/>
 </p>
@@ -189,6 +196,8 @@ LLM-assisted pipeline for building the first multimodal eating disorder dataset 
 
 <!-- AI/ML badges -->
 [Claude Badge]: https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white
+[GPT Badge]: https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white
+[SwiftUI Badge]: https://img.shields.io/badge/SwiftUI-0071e3?style=flat-square&logo=swift&logoColor=white
 [Node.js Badge]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
 [Swift Badge]: https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white
 [XCTest Badge]: https://img.shields.io/badge/XCTest-147EFB?style=flat-square&logo=apple&logoColor=white
