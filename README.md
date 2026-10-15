@@ -17,7 +17,7 @@ I also bench 225 now. and still play soccer...
 ## Featured Projects
 
 ### [Agentic Automation on iOS](https://github.com/bryanrg22/ios-agent_automation_info)
-Voice-controlled Claude agent that operates a real iPhone — built for blind and low-vision users. Hold the Action Button, speak a task, watch Claude take over any app (LinkedIn, CVS, your bank) while AVSpeechSynthesizer narrates every step. 22+ tools, CoALA-style memory stack, prompt caching, 10–100× action-latency reduction via direct HTTP to Maestro's XCTest runner. Now continuing as research at USC ISI.
+Voice-controlled Claude agent that operates a real iPhone — built for blind and low-vision users. Hold the Action Button, speak a task, watch Claude take over any app (LinkedIn, CVS, your bank) while AVSpeechSynthesizer narrates every step. 22+ tools, CoALA-style memory stack, prompt caching, 10–100× action-latency reduction via direct HTTP to Maestro's XCTest runner.
 
 ![Claude Badge] ![Node.js Badge] ![Swift Badge] ![XCTest Badge]
 
